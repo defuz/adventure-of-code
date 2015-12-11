@@ -1,0 +1,11 @@
+[package]
+name = "day04"
+version = "0.1.0"
+authors = ["Ivan Ivaschenko <defuz.net@gmail.com>"]
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
+rust-crypto = "^0.2"
